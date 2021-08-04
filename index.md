@@ -49,7 +49,7 @@
                         <p id="totalPay"></p>
                         <button id="bank" style="background-color: aquamarine; width: 90px; height: 45px; font-size: 16px;">Bank</button>
                         <button id="work" style="background-color: chartreuse; width: 90px; height: 45px; font-size: 16px;" >Work</button>
-                        <button id="payLoan" style="background-color: rgb(178, 108, 243); width: 90px; height: 45px; font-size: 16px;">Payback Loan</button>
+                        <button id="payLoan" style="background-color: rgb(178, 108, 243); width: 90px; height: 45px; font-size: 14px;">Payback Loan</button>
                     </section>
                   </div>
                   <div class="col-sm-4">
