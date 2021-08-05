@@ -75,11 +75,11 @@
                          <div>
                             <h2><span id="laptopName"></span></h2>
                             <p id="laptopName"></p>
-                            <h4><span id="description"></span></h4>
+                            <h5><span id="description"></span></h5>
                             <p id="description"></p>
                             <h4>Price: <span id="price"></span> SEK</h4>
                             <p id="price"></p>
-                            <button id="buy" style="background-color: rgb(243, 184, 34); width: 130px; height: 65px; font-size:22px ;">Buy Now</button>
+                            <button id="buy" style="background-color: rgb(243, 184, 34); width: 100px; height: 55px; font-size:18px ;">Buy Now</button>
                         </div>
                          
                     </div>
